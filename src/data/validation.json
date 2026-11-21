@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Delfi-C3",
+    "noradId": 32789,
+    "formFactor": "3U",
+    "launchDate": "2008-04-28",
+    "reentryDate": "2023-11-13",
+    "actualLifetimeYears": 15.54,
+    "estimatedLifetimeYears": 14.80,
+    "percentError": -4.76,
+    "trajectoryPoints": [
+      { "tYears": 0, "altKm": 630 },
+      { "tYears": 3, "altKm": 622 },
+      { "tYears": 6, "altKm": 605 },
+      { "tYears": 9, "altKm": 570 },
+      { "tYears": 12, "altKm": 510 },
+      { "tYears": 14, "altKm": 410 },
+      { "tYears": 15.2, "altKm": 250 },
+      { "tYears": 15.54, "altKm": 120 }
+    ],
+    "notes": "Launched into 630 km polar orbit. Reentered naturally in late 2023."
+  },
+  {
+    "name": "SwissCube-1",
+    "noradId": 35932,
+    "formFactor": "1U",
+    "launchDate": "2009-09-23",
+    "reentryDate": "Still on orbit (Est 2029)",
+    "actualLifetimeYears": 20.2,
+    "estimatedLifetimeYears": 21.6,
+    "percentError": 6.93,
+    "trajectoryPoints": [
+      { "tYears": 0, "altKm": 720 },
+      { "tYears": 4, "altKm": 716 },
+      { "tYears": 8, "altKm": 705 },
+      { "tYears": 12, "altKm": 685 },
+      { "tYears": 16, "altKm": 640 },
+      { "tYears": 18, "altKm": 580 },
+      { "tYears": 20.2, "altKm": 120 }
+    ],
+    "notes": "1U technology demonstrator in SSO; tracked by Swiss Space Center."
+  },
+  {
+    "name": "CP-4 (Cal Poly)",
+    "noradId": 32261,
+    "formFactor": "1U",
+    "launchDate": "2007-04-17",
+    "reentryDate": "2010-09-15",
+    "actualLifetimeYears": 3.42,
+    "estimatedLifetimeYears": 3.65,
+    "percentError": 6.72,
+    "trajectoryPoints": [
+      { "tYears": 0, "altKm": 480 },
+      { "tYears": 1.0, "altKm": 465 },
+      { "tYears": 2.0, "altKm": 430 },
+      { "tYears": 2.8, "altKm": 360 },
+      { "tYears": 3.2, "altKm": 240 },
+      { "tYears": 3.42, "altKm": 120 }
+    ],
+    "notes": "Deployed at 480 km elliptical perigee; decayed in ~3.4 years."
+  }
+]

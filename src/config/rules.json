@@ -1,0 +1,16 @@
+[
+  {
+    "id": "iadc-25",
+    "name": "IADC 25-Year Rule",
+    "limitYears": 25,
+    "sourceUrl": "https://www.iadc-home.org",
+    "note": "Applicable rule depends on launch country and licensing authority."
+  },
+  {
+    "id": "fcc-5",
+    "name": "FCC / ESA 5-Year Rule",
+    "limitYears": 5,
+    "sourceUrl": "https://www.fcc.gov/document/fcc-adopts-new-5-year-rule-deorbiting-satellites",
+    "note": "Applicable rule depends on launch country and licensing authority."
+  }
+]
